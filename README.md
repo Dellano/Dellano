@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Dellano
+- 👀 I’m interested in mobile development
+- 🌱 I’m currently learning AI and API Security
+- 💞️ I’m looking to collaborate on anything interesting
+- 📫 Reach me on Twitter [@the_llano] or Gmail me on dellano.oliveira@gmail.com
